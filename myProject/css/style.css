@@ -217,7 +217,7 @@ a:link{
     white-space:nowrap;
 }
 .line-middle{
-    background:url(../image/next.png) right center no-repeat;
+    background:url(../img/next.png) right center no-repeat;
     background-size:1.2rem;
     right:1rem;
 }
@@ -244,3 +244,20 @@ a:link{
 .title-header:hover{
     color:orangered;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+/*section {*/
+    /*position: fixed;*/
+    /*!*width: 900px;*!*/
+    /*!*height: 600px;*!*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*bottom: 0;*/
+    /*margin: auto;*/
+/*}*/
