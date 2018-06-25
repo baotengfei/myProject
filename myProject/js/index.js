@@ -42,4 +42,9 @@ window.onload = function () {
     $('#video').bind('ended', function() {
         console.log('弹幕json数据：\n'+ video.comment());              //获取弹幕json数据
     });
-}
+
+
+};
+var stateGo=function (url) {
+    window.location.href=url;
+};

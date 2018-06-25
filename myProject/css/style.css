@@ -31,7 +31,7 @@ header{
     /*height:5rem;*/
     max-width:750px;
     width:100%;
-    background-color:#b7cd5f;
+    background-color:#999;
     z-index:10;
 }
 footer{
@@ -40,7 +40,7 @@ footer{
     height:5rem;
     max-width:750px;
     width:100%;
-    background-color:#f8fafb;
+    background-color:#999;
     z-index:10;
 }
 main {
@@ -105,7 +105,7 @@ main {
 }
 .homepage{
     font-size:1rem;
-    color:#5fc0cd;
+    color:#fff;
     text-align:center;
 }
 .home-shape{
